@@ -7,19 +7,19 @@ This plugin allows you to upload file that have mime type application/*.
 # Installation
 
 ```
-npm i @emagtechlabs/ckeditor5-file-upload
+npm i @ch-sridhar15/ckeditor5-file-upload
 ```
 or
 ```
-yarn add @emagtechlabs/ckeditor5-file-upload
+yarn add @ch-sridhar15/ckeditor5-file-upload
 ```
 
 # Usage
 
 Update src/ckeditor.js with:
 ```javascript
-import FileUpload from "@emagtechlabs/ckeditor5-file-upload/fileupload";
-import SimpleFileUploadAdapter from "@emagtechlabs/ckeditor5-file-upload/src/simplefileuploadadapter";
+import FileUpload from "@ch-sridhar15/ckeditor5-file-upload/fileupload";
+import SimpleFileUploadAdapter from "@ch-sridhar15/ckeditor5-file-upload/src/simplefileuploadadapter";
 
 Editor.builtinPlugins = [
   // ...
