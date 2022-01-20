@@ -1,6 +1,6 @@
 {
-  "name": "@emagtechlabs/ckeditor5-file-upload",
-  "version": "1.0.4",
+  "name": "@ch-sridhar15/ckeditor5-file-upload",
+  "version": "1.0.0",
   "description": "Classic File Upload Tool for CKEditor5",
   "main": "src/fileupload.js",
   "keywords": [
